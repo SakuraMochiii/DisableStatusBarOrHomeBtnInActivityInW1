@@ -1,3 +1,3 @@
 # DisableStatusBarOrHomeBtnInActivityInW1
 
-A simple demo focuses on disabling the home key specifically in an Android activity.
+A demo to disable the home key in an Android activity.
